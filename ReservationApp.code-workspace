@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "reservationApp",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
